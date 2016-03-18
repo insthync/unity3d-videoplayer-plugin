@@ -1,4 +1,4 @@
-package com.ittipon.unityvideoview;
+package com.insthync.unityvideoview;
 import java.io.IOException;
 
 import com.unity3d.player.UnityPlayer;

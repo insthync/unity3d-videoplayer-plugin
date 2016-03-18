@@ -8,7 +8,7 @@ public class IMediaPlayerAndroid : IMediaPlayer {
 	
 	public void Init( string name, string title, string url )
 	{
-		mediaPlayer = new AndroidJavaObject( "com.ittipon.unityvideoview.VideoViewPlugin" );
+		mediaPlayer = new AndroidJavaObject( "com.insthync.unityvideoview.VideoViewPlugin" );
 		SafeCall( "Init", name, title, url );
 	}
 

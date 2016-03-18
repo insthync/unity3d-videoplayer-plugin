@@ -16,7 +16,7 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package com.ittipon.unityvideoview;
+package com.insthync.unityvideoview;
 
 import java.lang.ref.WeakReference;
 import java.util.Locale;
